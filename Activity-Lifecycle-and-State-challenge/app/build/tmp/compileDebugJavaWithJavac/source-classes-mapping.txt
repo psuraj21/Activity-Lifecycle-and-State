@@ -1,0 +1,16 @@
+com/example/activitylifecycle/SecondActivity.java
+ com.example.activitylifecycle.SecondActivity
+com/example/activitylifecycle/BuildConfig.java
+ com.example.activitylifecycle.BuildConfig
+com/example/activitylifecycle/MainActivity.java
+ com.example.activitylifecycle.MainActivity
+ com.example.activitylifecycle.MainActivity$1
+ com.example.activitylifecycle.MainActivity$10
+ com.example.activitylifecycle.MainActivity$2
+ com.example.activitylifecycle.MainActivity$3
+ com.example.activitylifecycle.MainActivity$4
+ com.example.activitylifecycle.MainActivity$5
+ com.example.activitylifecycle.MainActivity$6
+ com.example.activitylifecycle.MainActivity$7
+ com.example.activitylifecycle.MainActivity$8
+ com.example.activitylifecycle.MainActivity$9

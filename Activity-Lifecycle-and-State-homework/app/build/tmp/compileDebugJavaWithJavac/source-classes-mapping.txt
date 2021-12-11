@@ -1,0 +1,5 @@
+com/example/activitylifecycle/BuildConfig.java
+ com.example.activitylifecycle.BuildConfig
+com/example/activitylifecycle/MainActivity.java
+ com.example.activitylifecycle.MainActivity
+ com.example.activitylifecycle.MainActivity$1

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".SecondActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/btn_apple"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="AppleReply"
+            android:text="@string/apples" />
+
+        <Button
+            android:id="@+id/btn_rice"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="RiceReply"
+            android:text="@string/rice" />
+
+        <Button
+            android:id="@+id/btn_cheese"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="CheeseReply"
+            android:text="@string/cheese" />
+
+        <Button
+            android:id="@+id/btn_banana"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="BananaReply"
+            android:text="@string/banana" />
+
+        <Button
+            android:id="@+id/btn_grapes"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="GrapesReply"
+            android:text="@string/grapes" />
+
+        <Button
+            android:id="@+id/btn_pumpkin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="PumpkinReply"
+            android:text="@string/pumpkin" />
+
+        <Button
+            android:id="@+id/btn_egg"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="EggReply"
+            android:text="@string/egg" />
+    </LinearLayout>
+</ScrollView>
